@@ -46,7 +46,7 @@ pip install PySide6 zstandard
 ## Quick start
 
 ```
-git clone https://github.com/<you>/devpip
+git clone https://github.com/DanielAndersonCDS/devpip
 cd devpip
 pip install PySide6 zstandard
 python devpip_gui.py
