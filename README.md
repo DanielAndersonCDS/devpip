@@ -163,10 +163,6 @@ Copy the needed DLLs from `<Dev-Cpp>\MinGW64\bin` (integrated) or `%USERPROFILE%
 
 Issues and pull requests are welcome, especially new curated packages (with tested link flags) and reports from different Dev-C++ versions.
 
-## License
-
-Choose a license for the repository and add it here (MIT is a common choice for tools like this).
-
 ## Credits
 
 - [Orwell Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) for the IDE devpip builds on
